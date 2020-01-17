@@ -1,0 +1,16 @@
+Package: logr
+Title: Estimates the logistic regression model
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sebastian",
+           family = "Fischer",
+           role = c("aut", "cre"),
+           email = "sebf.fischer@gmail.com")
+Description: This package allows you to estimate the logistic regression model ...
+License: What license it uses
+Encoding: GPL-2
+LazyData: true
+Suggests: 
+    testthat
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.2
